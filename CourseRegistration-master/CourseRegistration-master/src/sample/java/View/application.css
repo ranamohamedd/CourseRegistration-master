@@ -1,0 +1,13 @@
+.my-special-button {
+    -fx-pref-height: 280px;
+    -fx-pref-width: 2000px;
+}
+
+.root {
+    -fx-background-color: linear-gradient(from 25% 25% to 100% 100%, cyan , pink, grey);
+}
+
+
+.folder-icon {
+    -fx-graphic: url("C:\Users\El-Sa7er\IdeaProjects\Course Registration\src\sample\icons\icon.png");
+}
